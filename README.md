@@ -4,8 +4,11 @@
 Download this project folder.
 make sure you have this project folder inside example folder in cadmium v2
 run the following commands
+
 $ cmake .
+
 $ make all
+
 the go to bin folder
 $ ./bin
 
