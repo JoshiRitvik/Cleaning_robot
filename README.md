@@ -11,7 +11,7 @@ $ cmake .
 
 $ make all
 
-the go to bin folder
+then go to bin folder
 $ cd bin/
 
 Execute the following commands to run respective files
