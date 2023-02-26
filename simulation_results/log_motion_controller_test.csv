@@ -1,0 +1,78 @@
+time;model_id;model_name;port_name;data
+0;1;motion_controller;;{0 0 0}
+0;2;iestream2;;10
+0;3;iestream;;10
+10;1;motion_controller;wheel_start_stop;0
+10;1;motion_controller;;{1 24 1}
+10;2;iestream2;out;1
+10;2;iestream2;;10
+10;3;iestream;out;24
+10;3;iestream;;10
+10;1;motion_controller;wheel_start_stop;1
+10;1;motion_controller;;{1 24 1}
+20;1;motion_controller;;{1 14 1}
+20;2;iestream2;out;1
+20;2;iestream2;;10
+20;3;iestream;out;14
+20;3;iestream;;10
+20;1;motion_controller;wheel_start_stop;1
+20;1;motion_controller;;{1 14 1}
+30;1;motion_controller;;{1 43 1}
+30;2;iestream2;out;1
+30;2;iestream2;;10
+30;3;iestream;out;43
+30;3;iestream;;10
+30;1;motion_controller;wheel_start_stop;1
+30;1;motion_controller;;{1 43 1}
+40;1;motion_controller;;{1 76 1}
+40;2;iestream2;out;1
+40;2;iestream2;;10
+40;3;iestream;out;76
+40;3;iestream;;10
+40;1;motion_controller;wheel_start_stop;1
+40;1;motion_controller;;{1 76 1}
+50;1;motion_controller;;{1 9 0}
+50;2;iestream2;out;1
+50;2;iestream2;;10
+50;3;iestream;out;9
+50;3;iestream;;10
+50;1;motion_controller;wheel_start_stop;0
+50;1;motion_controller;;{1 9 0}
+60;1;motion_controller;;{1 76 1}
+60;2;iestream2;out;1
+60;2;iestream2;;10
+60;3;iestream;out;76
+60;3;iestream;;10
+60;1;motion_controller;wheel_start_stop;1
+60;1;motion_controller;;{1 76 1}
+70;1;motion_controller;;{0 54 0}
+70;2;iestream2;out;0
+70;2;iestream2;;10
+70;3;iestream;out;54
+70;3;iestream;;10
+70;1;motion_controller;wheel_start_stop;0
+70;1;motion_controller;;{0 54 0}
+80;1;motion_controller;;{0 7 0}
+80;2;iestream2;out;0
+80;2;iestream2;;10
+80;3;iestream;out;7
+80;3;iestream;;10
+80;1;motion_controller;wheel_start_stop;0
+80;1;motion_controller;;{0 7 0}
+90;1;motion_controller;;{0 32 0}
+90;2;iestream2;out;0
+90;2;iestream2;;10
+90;3;iestream;out;32
+90;3;iestream;;10
+90;1;motion_controller;wheel_start_stop;0
+90;1;motion_controller;;{0 32 0}
+100;1;motion_controller;;{0 90 0}
+100;2;iestream2;out;0
+100;2;iestream2;;inf
+100;3;iestream;out;90
+100;3;iestream;;inf
+100;1;motion_controller;wheel_start_stop;0
+100;1;motion_controller;;{0 90 0}
+100;1;motion_controller;;{0 90 0}
+100;2;iestream2;;inf
+100;3;iestream;;inf

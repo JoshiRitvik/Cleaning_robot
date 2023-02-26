@@ -1,0 +1,2005 @@
+time;model_id;model_name;port_name;data
+0;1;remote_control_In;;0
+0;2;motion_controller;;{0 0 0}
+0;4;proximity_sensor;;sampling rate0sensor value0
+0;6;wheel2;;176
+0;7;wheel;;176
+0;1;remote_control_In;Ext_Remote_control;0
+0;1;remote_control_In;;1
+0;2;motion_controller;;{0 0 0}
+0;4;proximity_sensor;Proximity_data;0
+0;4;proximity_sensor;;sampling rate4sensor value34
+0;2;motion_controller;wheel_start_stop;0
+0;2;motion_controller;;{0 0 0}
+0;6;wheel2;;0
+0;7;wheel;;0
+4;2;motion_controller;;{0 34 0}
+4;4;proximity_sensor;Proximity_data;34
+4;4;proximity_sensor;;sampling rate4sensor value44
+4;2;motion_controller;wheel_start_stop;0
+4;2;motion_controller;;{0 34 0}
+4;6;wheel2;;0
+4;7;wheel;;0
+8;2;motion_controller;;{0 44 0}
+8;4;proximity_sensor;Proximity_data;44
+8;4;proximity_sensor;;sampling rate4sensor value63
+8;2;motion_controller;wheel_start_stop;0
+8;2;motion_controller;;{0 44 0}
+8;6;wheel2;;0
+8;7;wheel;;0
+12;2;motion_controller;;{0 63 0}
+12;4;proximity_sensor;Proximity_data;63
+12;4;proximity_sensor;;sampling rate4sensor value30
+12;2;motion_controller;wheel_start_stop;0
+12;2;motion_controller;;{0 63 0}
+12;6;wheel2;;0
+12;7;wheel;;0
+16;2;motion_controller;;{0 30 0}
+16;4;proximity_sensor;Proximity_data;30
+16;4;proximity_sensor;;sampling rate4sensor value1
+16;2;motion_controller;wheel_start_stop;0
+16;2;motion_controller;;{0 30 0}
+16;6;wheel2;;0
+16;7;wheel;;0
+20;2;motion_controller;;{0 1 0}
+20;4;proximity_sensor;Proximity_data;1
+20;4;proximity_sensor;;sampling rate4sensor value9
+20;2;motion_controller;wheel_start_stop;0
+20;2;motion_controller;;{0 1 0}
+20;6;wheel2;;0
+20;7;wheel;;0
+24;2;motion_controller;;{0 9 0}
+24;4;proximity_sensor;Proximity_data;9
+24;4;proximity_sensor;;sampling rate4sensor value53
+24;2;motion_controller;wheel_start_stop;0
+24;2;motion_controller;;{0 9 0}
+24;6;wheel2;;0
+24;7;wheel;;0
+28;2;motion_controller;;{0 53 0}
+28;4;proximity_sensor;Proximity_data;53
+28;4;proximity_sensor;;sampling rate4sensor value57
+28;2;motion_controller;wheel_start_stop;0
+28;2;motion_controller;;{0 53 0}
+28;6;wheel2;;0
+28;7;wheel;;0
+32;2;motion_controller;;{0 57 0}
+32;4;proximity_sensor;Proximity_data;57
+32;4;proximity_sensor;;sampling rate4sensor value57
+32;2;motion_controller;wheel_start_stop;0
+32;2;motion_controller;;{0 57 0}
+32;6;wheel2;;0
+32;7;wheel;;0
+36;2;motion_controller;;{0 57 0}
+36;4;proximity_sensor;Proximity_data;57
+36;4;proximity_sensor;;sampling rate4sensor value20
+36;2;motion_controller;wheel_start_stop;0
+36;2;motion_controller;;{0 57 0}
+36;6;wheel2;;0
+36;7;wheel;;0
+40;2;motion_controller;;{0 20 0}
+40;4;proximity_sensor;Proximity_data;20
+40;4;proximity_sensor;;sampling rate4sensor value12
+40;2;motion_controller;wheel_start_stop;0
+40;2;motion_controller;;{0 20 0}
+40;6;wheel2;;0
+40;7;wheel;;0
+44;2;motion_controller;;{0 12 0}
+44;4;proximity_sensor;Proximity_data;12
+44;4;proximity_sensor;;sampling rate4sensor value52
+44;2;motion_controller;wheel_start_stop;0
+44;2;motion_controller;;{0 12 0}
+44;6;wheel2;;0
+44;7;wheel;;0
+48;2;motion_controller;;{0 52 0}
+48;4;proximity_sensor;Proximity_data;52
+48;4;proximity_sensor;;sampling rate4sensor value44
+48;2;motion_controller;wheel_start_stop;0
+48;2;motion_controller;;{0 52 0}
+48;6;wheel2;;0
+48;7;wheel;;0
+52;2;motion_controller;;{0 44 0}
+52;4;proximity_sensor;Proximity_data;44
+52;4;proximity_sensor;;sampling rate4sensor value6
+52;2;motion_controller;wheel_start_stop;0
+52;2;motion_controller;;{0 44 0}
+52;6;wheel2;;0
+52;7;wheel;;0
+56;2;motion_controller;;{0 6 0}
+56;4;proximity_sensor;Proximity_data;6
+56;4;proximity_sensor;;sampling rate4sensor value9
+56;2;motion_controller;wheel_start_stop;0
+56;2;motion_controller;;{0 6 0}
+56;6;wheel2;;0
+56;7;wheel;;0
+60;2;motion_controller;;{0 9 0}
+60;4;proximity_sensor;Proximity_data;9
+60;4;proximity_sensor;;sampling rate4sensor value94
+60;2;motion_controller;wheel_start_stop;0
+60;2;motion_controller;;{0 9 0}
+60;6;wheel2;;0
+60;7;wheel;;0
+64;2;motion_controller;;{0 94 0}
+64;4;proximity_sensor;Proximity_data;94
+64;4;proximity_sensor;;sampling rate4sensor value31
+64;2;motion_controller;wheel_start_stop;0
+64;2;motion_controller;;{0 94 0}
+64;6;wheel2;;0
+64;7;wheel;;0
+68;2;motion_controller;;{0 31 0}
+68;4;proximity_sensor;Proximity_data;31
+68;4;proximity_sensor;;sampling rate4sensor value67
+68;2;motion_controller;wheel_start_stop;0
+68;2;motion_controller;;{0 31 0}
+68;6;wheel2;;0
+68;7;wheel;;0
+72;2;motion_controller;;{0 67 0}
+72;4;proximity_sensor;Proximity_data;67
+72;4;proximity_sensor;;sampling rate4sensor value70
+72;2;motion_controller;wheel_start_stop;0
+72;2;motion_controller;;{0 67 0}
+72;6;wheel2;;0
+72;7;wheel;;0
+76;2;motion_controller;;{0 70 0}
+76;4;proximity_sensor;Proximity_data;70
+76;4;proximity_sensor;;sampling rate4sensor value33
+76;2;motion_controller;wheel_start_stop;0
+76;2;motion_controller;;{0 70 0}
+76;6;wheel2;;0
+76;7;wheel;;0
+80;2;motion_controller;;{0 33 0}
+80;4;proximity_sensor;Proximity_data;33
+80;4;proximity_sensor;;sampling rate4sensor value18
+80;2;motion_controller;wheel_start_stop;0
+80;2;motion_controller;;{0 33 0}
+80;6;wheel2;;0
+80;7;wheel;;0
+84;2;motion_controller;;{0 18 0}
+84;4;proximity_sensor;Proximity_data;18
+84;4;proximity_sensor;;sampling rate4sensor value48
+84;2;motion_controller;wheel_start_stop;0
+84;2;motion_controller;;{0 18 0}
+84;6;wheel2;;0
+84;7;wheel;;0
+88;2;motion_controller;;{0 48 0}
+88;4;proximity_sensor;Proximity_data;48
+88;4;proximity_sensor;;sampling rate4sensor value73
+88;2;motion_controller;wheel_start_stop;0
+88;2;motion_controller;;{0 48 0}
+88;6;wheel2;;0
+88;7;wheel;;0
+92;2;motion_controller;;{0 73 0}
+92;4;proximity_sensor;Proximity_data;73
+92;4;proximity_sensor;;sampling rate4sensor value69
+92;2;motion_controller;wheel_start_stop;0
+92;2;motion_controller;;{0 73 0}
+92;6;wheel2;;0
+92;7;wheel;;0
+96;2;motion_controller;;{0 69 0}
+96;4;proximity_sensor;Proximity_data;69
+96;4;proximity_sensor;;sampling rate4sensor value81
+96;2;motion_controller;wheel_start_stop;0
+96;2;motion_controller;;{0 69 0}
+96;6;wheel2;;0
+96;7;wheel;;0
+100;1;remote_control_In;Ext_Remote_control;1
+100;1;remote_control_In;;0
+100;2;motion_controller;;{1 81 1}
+100;4;proximity_sensor;Proximity_data;81
+100;4;proximity_sensor;;sampling rate4sensor value24
+100;2;motion_controller;wheel_start_stop;1
+100;2;motion_controller;;{1 81 1}
+100;6;wheel2;;1
+100;7;wheel;;1
+102;6;wheel2;;1
+102;7;wheel;;1
+104;2;motion_controller;;{1 24 1}
+104;4;proximity_sensor;Proximity_data;24
+104;4;proximity_sensor;;sampling rate4sensor value50
+104;2;motion_controller;wheel_start_stop;1
+104;2;motion_controller;;{1 24 1}
+104;6;wheel2;;1
+104;7;wheel;;1
+106;6;wheel2;;1
+106;7;wheel;;1
+108;2;motion_controller;;{1 50 1}
+108;4;proximity_sensor;Proximity_data;50
+108;4;proximity_sensor;;sampling rate4sensor value93
+108;2;motion_controller;wheel_start_stop;1
+108;2;motion_controller;;{1 50 1}
+108;6;wheel2;;1
+108;7;wheel;;1
+110;6;wheel2;;1
+110;7;wheel;;1
+112;2;motion_controller;;{1 93 1}
+112;4;proximity_sensor;Proximity_data;93
+112;4;proximity_sensor;;sampling rate4sensor value65
+112;2;motion_controller;wheel_start_stop;1
+112;2;motion_controller;;{1 93 1}
+112;6;wheel2;;1
+112;7;wheel;;1
+114;6;wheel2;;1
+114;7;wheel;;1
+116;2;motion_controller;;{1 65 1}
+116;4;proximity_sensor;Proximity_data;65
+116;4;proximity_sensor;;sampling rate4sensor value70
+116;2;motion_controller;wheel_start_stop;1
+116;2;motion_controller;;{1 65 1}
+116;6;wheel2;;1
+116;7;wheel;;1
+118;6;wheel2;;1
+118;7;wheel;;1
+120;2;motion_controller;;{1 70 1}
+120;4;proximity_sensor;Proximity_data;70
+120;4;proximity_sensor;;sampling rate4sensor value52
+120;2;motion_controller;wheel_start_stop;1
+120;2;motion_controller;;{1 70 1}
+120;6;wheel2;;1
+120;7;wheel;;1
+122;6;wheel2;;1
+122;7;wheel;;1
+124;2;motion_controller;;{1 52 1}
+124;4;proximity_sensor;Proximity_data;52
+124;4;proximity_sensor;;sampling rate4sensor value28
+124;2;motion_controller;wheel_start_stop;1
+124;2;motion_controller;;{1 52 1}
+124;6;wheel2;;1
+124;7;wheel;;1
+126;6;wheel2;;1
+126;7;wheel;;1
+128;2;motion_controller;;{1 28 1}
+128;4;proximity_sensor;Proximity_data;28
+128;4;proximity_sensor;;sampling rate4sensor value91
+128;2;motion_controller;wheel_start_stop;1
+128;2;motion_controller;;{1 28 1}
+128;6;wheel2;;1
+128;7;wheel;;1
+130;6;wheel2;;1
+130;7;wheel;;1
+132;2;motion_controller;;{1 91 1}
+132;4;proximity_sensor;Proximity_data;91
+132;4;proximity_sensor;;sampling rate4sensor value25
+132;2;motion_controller;wheel_start_stop;1
+132;2;motion_controller;;{1 91 1}
+132;6;wheel2;;1
+132;7;wheel;;1
+134;6;wheel2;;1
+134;7;wheel;;1
+136;2;motion_controller;;{1 25 1}
+136;4;proximity_sensor;Proximity_data;25
+136;4;proximity_sensor;;sampling rate4sensor value36
+136;2;motion_controller;wheel_start_stop;1
+136;2;motion_controller;;{1 25 1}
+136;6;wheel2;;1
+136;7;wheel;;1
+138;6;wheel2;;1
+138;7;wheel;;1
+140;2;motion_controller;;{1 36 1}
+140;4;proximity_sensor;Proximity_data;36
+140;4;proximity_sensor;;sampling rate4sensor value21
+140;2;motion_controller;wheel_start_stop;1
+140;2;motion_controller;;{1 36 1}
+140;6;wheel2;;1
+140;7;wheel;;1
+142;6;wheel2;;1
+142;7;wheel;;1
+144;2;motion_controller;;{1 21 1}
+144;4;proximity_sensor;Proximity_data;21
+144;4;proximity_sensor;;sampling rate4sensor value45
+144;2;motion_controller;wheel_start_stop;1
+144;2;motion_controller;;{1 21 1}
+144;6;wheel2;;1
+144;7;wheel;;1
+146;6;wheel2;;1
+146;7;wheel;;1
+148;2;motion_controller;;{1 45 1}
+148;4;proximity_sensor;Proximity_data;45
+148;4;proximity_sensor;;sampling rate4sensor value11
+148;2;motion_controller;wheel_start_stop;1
+148;2;motion_controller;;{1 45 1}
+148;6;wheel2;;1
+148;7;wheel;;1
+150;6;wheel2;;1
+150;7;wheel;;1
+152;2;motion_controller;;{1 11 1}
+152;4;proximity_sensor;Proximity_data;11
+152;4;proximity_sensor;;sampling rate4sensor value63
+152;2;motion_controller;wheel_start_stop;1
+152;2;motion_controller;;{1 11 1}
+152;6;wheel2;;1
+152;7;wheel;;1
+154;6;wheel2;;1
+154;7;wheel;;1
+156;2;motion_controller;;{1 63 1}
+156;4;proximity_sensor;Proximity_data;63
+156;4;proximity_sensor;;sampling rate4sensor value85
+156;2;motion_controller;wheel_start_stop;1
+156;2;motion_controller;;{1 63 1}
+156;6;wheel2;;1
+156;7;wheel;;1
+158;6;wheel2;;1
+158;7;wheel;;1
+160;2;motion_controller;;{1 85 1}
+160;4;proximity_sensor;Proximity_data;85
+160;4;proximity_sensor;;sampling rate4sensor value64
+160;2;motion_controller;wheel_start_stop;1
+160;2;motion_controller;;{1 85 1}
+160;6;wheel2;;1
+160;7;wheel;;1
+162;6;wheel2;;1
+162;7;wheel;;1
+164;2;motion_controller;;{1 64 1}
+164;4;proximity_sensor;Proximity_data;64
+164;4;proximity_sensor;;sampling rate4sensor value2
+164;2;motion_controller;wheel_start_stop;1
+164;2;motion_controller;;{1 64 1}
+164;6;wheel2;;1
+164;7;wheel;;1
+166;6;wheel2;;1
+166;7;wheel;;1
+168;2;motion_controller;;{1 2 0}
+168;4;proximity_sensor;Proximity_data;2
+168;4;proximity_sensor;;sampling rate4sensor value11
+168;2;motion_controller;wheel_start_stop;0
+168;2;motion_controller;;{1 2 0}
+168;6;wheel2;;0
+168;7;wheel;;0
+172;2;motion_controller;;{1 11 1}
+172;4;proximity_sensor;Proximity_data;11
+172;4;proximity_sensor;;sampling rate4sensor value37
+172;2;motion_controller;wheel_start_stop;1
+172;2;motion_controller;;{1 11 1}
+172;6;wheel2;;1
+172;7;wheel;;1
+174;6;wheel2;;1
+174;7;wheel;;1
+176;2;motion_controller;;{1 37 1}
+176;4;proximity_sensor;Proximity_data;37
+176;4;proximity_sensor;;sampling rate4sensor value77
+176;2;motion_controller;wheel_start_stop;1
+176;2;motion_controller;;{1 37 1}
+176;6;wheel2;;1
+176;7;wheel;;1
+178;6;wheel2;;1
+178;7;wheel;;1
+180;2;motion_controller;;{1 77 1}
+180;4;proximity_sensor;Proximity_data;77
+180;4;proximity_sensor;;sampling rate4sensor value32
+180;2;motion_controller;wheel_start_stop;1
+180;2;motion_controller;;{1 77 1}
+180;6;wheel2;;1
+180;7;wheel;;1
+182;6;wheel2;;1
+182;7;wheel;;1
+184;2;motion_controller;;{1 32 1}
+184;4;proximity_sensor;Proximity_data;32
+184;4;proximity_sensor;;sampling rate4sensor value30
+184;2;motion_controller;wheel_start_stop;1
+184;2;motion_controller;;{1 32 1}
+184;6;wheel2;;1
+184;7;wheel;;1
+186;6;wheel2;;1
+186;7;wheel;;1
+188;2;motion_controller;;{1 30 1}
+188;4;proximity_sensor;Proximity_data;30
+188;4;proximity_sensor;;sampling rate4sensor value98
+188;2;motion_controller;wheel_start_stop;1
+188;2;motion_controller;;{1 30 1}
+188;6;wheel2;;1
+188;7;wheel;;1
+190;6;wheel2;;1
+190;7;wheel;;1
+192;2;motion_controller;;{1 98 1}
+192;4;proximity_sensor;Proximity_data;98
+192;4;proximity_sensor;;sampling rate4sensor value76
+192;2;motion_controller;wheel_start_stop;1
+192;2;motion_controller;;{1 98 1}
+192;6;wheel2;;1
+192;7;wheel;;1
+194;6;wheel2;;1
+194;7;wheel;;1
+196;2;motion_controller;;{1 76 1}
+196;4;proximity_sensor;Proximity_data;76
+196;4;proximity_sensor;;sampling rate4sensor value92
+196;2;motion_controller;wheel_start_stop;1
+196;2;motion_controller;;{1 76 1}
+196;6;wheel2;;1
+196;7;wheel;;1
+198;6;wheel2;;1
+198;7;wheel;;1
+200;1;remote_control_In;Ext_Remote_control;0
+200;1;remote_control_In;;1
+200;2;motion_controller;;{0 92 0}
+200;4;proximity_sensor;Proximity_data;92
+200;4;proximity_sensor;;sampling rate4sensor value91
+200;2;motion_controller;wheel_start_stop;0
+200;2;motion_controller;;{0 92 0}
+200;6;wheel2;;0
+200;7;wheel;;0
+204;2;motion_controller;;{0 91 0}
+204;4;proximity_sensor;Proximity_data;91
+204;4;proximity_sensor;;sampling rate4sensor value45
+204;2;motion_controller;wheel_start_stop;0
+204;2;motion_controller;;{0 91 0}
+204;6;wheel2;;0
+204;7;wheel;;0
+208;2;motion_controller;;{0 45 0}
+208;4;proximity_sensor;Proximity_data;45
+208;4;proximity_sensor;;sampling rate4sensor value35
+208;2;motion_controller;wheel_start_stop;0
+208;2;motion_controller;;{0 45 0}
+208;6;wheel2;;0
+208;7;wheel;;0
+212;2;motion_controller;;{0 35 0}
+212;4;proximity_sensor;Proximity_data;35
+212;4;proximity_sensor;;sampling rate4sensor value26
+212;2;motion_controller;wheel_start_stop;0
+212;2;motion_controller;;{0 35 0}
+212;6;wheel2;;0
+212;7;wheel;;0
+216;2;motion_controller;;{0 26 0}
+216;4;proximity_sensor;Proximity_data;26
+216;4;proximity_sensor;;sampling rate4sensor value30
+216;2;motion_controller;wheel_start_stop;0
+216;2;motion_controller;;{0 26 0}
+216;6;wheel2;;0
+216;7;wheel;;0
+220;2;motion_controller;;{0 30 0}
+220;4;proximity_sensor;Proximity_data;30
+220;4;proximity_sensor;;sampling rate4sensor value31
+220;2;motion_controller;wheel_start_stop;0
+220;2;motion_controller;;{0 30 0}
+220;6;wheel2;;0
+220;7;wheel;;0
+224;2;motion_controller;;{0 31 0}
+224;4;proximity_sensor;Proximity_data;31
+224;4;proximity_sensor;;sampling rate4sensor value28
+224;2;motion_controller;wheel_start_stop;0
+224;2;motion_controller;;{0 31 0}
+224;6;wheel2;;0
+224;7;wheel;;0
+228;2;motion_controller;;{0 28 0}
+228;4;proximity_sensor;Proximity_data;28
+228;4;proximity_sensor;;sampling rate4sensor value27
+228;2;motion_controller;wheel_start_stop;0
+228;2;motion_controller;;{0 28 0}
+228;6;wheel2;;0
+228;7;wheel;;0
+232;2;motion_controller;;{0 27 0}
+232;4;proximity_sensor;Proximity_data;27
+232;4;proximity_sensor;;sampling rate4sensor value44
+232;2;motion_controller;wheel_start_stop;0
+232;2;motion_controller;;{0 27 0}
+232;6;wheel2;;0
+232;7;wheel;;0
+236;2;motion_controller;;{0 44 0}
+236;4;proximity_sensor;Proximity_data;44
+236;4;proximity_sensor;;sampling rate4sensor value35
+236;2;motion_controller;wheel_start_stop;0
+236;2;motion_controller;;{0 44 0}
+236;6;wheel2;;0
+236;7;wheel;;0
+240;2;motion_controller;;{0 35 0}
+240;4;proximity_sensor;Proximity_data;35
+240;4;proximity_sensor;;sampling rate4sensor value5
+240;2;motion_controller;wheel_start_stop;0
+240;2;motion_controller;;{0 35 0}
+240;6;wheel2;;0
+240;7;wheel;;0
+244;2;motion_controller;;{0 5 0}
+244;4;proximity_sensor;Proximity_data;5
+244;4;proximity_sensor;;sampling rate4sensor value61
+244;2;motion_controller;wheel_start_stop;0
+244;2;motion_controller;;{0 5 0}
+244;6;wheel2;;0
+244;7;wheel;;0
+248;2;motion_controller;;{0 61 0}
+248;4;proximity_sensor;Proximity_data;61
+248;4;proximity_sensor;;sampling rate4sensor value50
+248;2;motion_controller;wheel_start_stop;0
+248;2;motion_controller;;{0 61 0}
+248;6;wheel2;;0
+248;7;wheel;;0
+252;2;motion_controller;;{0 50 0}
+252;4;proximity_sensor;Proximity_data;50
+252;4;proximity_sensor;;sampling rate4sensor value21
+252;2;motion_controller;wheel_start_stop;0
+252;2;motion_controller;;{0 50 0}
+252;6;wheel2;;0
+252;7;wheel;;0
+256;2;motion_controller;;{0 21 0}
+256;4;proximity_sensor;Proximity_data;21
+256;4;proximity_sensor;;sampling rate4sensor value57
+256;2;motion_controller;wheel_start_stop;0
+256;2;motion_controller;;{0 21 0}
+256;6;wheel2;;0
+256;7;wheel;;0
+260;2;motion_controller;;{0 57 0}
+260;4;proximity_sensor;Proximity_data;57
+260;4;proximity_sensor;;sampling rate4sensor value33
+260;2;motion_controller;wheel_start_stop;0
+260;2;motion_controller;;{0 57 0}
+260;6;wheel2;;0
+260;7;wheel;;0
+264;2;motion_controller;;{0 33 0}
+264;4;proximity_sensor;Proximity_data;33
+264;4;proximity_sensor;;sampling rate4sensor value73
+264;2;motion_controller;wheel_start_stop;0
+264;2;motion_controller;;{0 33 0}
+264;6;wheel2;;0
+264;7;wheel;;0
+268;2;motion_controller;;{0 73 0}
+268;4;proximity_sensor;Proximity_data;73
+268;4;proximity_sensor;;sampling rate4sensor value14
+268;2;motion_controller;wheel_start_stop;0
+268;2;motion_controller;;{0 73 0}
+268;6;wheel2;;0
+268;7;wheel;;0
+272;2;motion_controller;;{0 14 0}
+272;4;proximity_sensor;Proximity_data;14
+272;4;proximity_sensor;;sampling rate4sensor value91
+272;2;motion_controller;wheel_start_stop;0
+272;2;motion_controller;;{0 14 0}
+272;6;wheel2;;0
+272;7;wheel;;0
+276;2;motion_controller;;{0 91 0}
+276;4;proximity_sensor;Proximity_data;91
+276;4;proximity_sensor;;sampling rate4sensor value10
+276;2;motion_controller;wheel_start_stop;0
+276;2;motion_controller;;{0 91 0}
+276;6;wheel2;;0
+276;7;wheel;;0
+280;2;motion_controller;;{0 10 0}
+280;4;proximity_sensor;Proximity_data;10
+280;4;proximity_sensor;;sampling rate4sensor value20
+280;2;motion_controller;wheel_start_stop;0
+280;2;motion_controller;;{0 10 0}
+280;6;wheel2;;0
+280;7;wheel;;0
+284;2;motion_controller;;{0 20 0}
+284;4;proximity_sensor;Proximity_data;20
+284;4;proximity_sensor;;sampling rate4sensor value6
+284;2;motion_controller;wheel_start_stop;0
+284;2;motion_controller;;{0 20 0}
+284;6;wheel2;;0
+284;7;wheel;;0
+288;2;motion_controller;;{0 6 0}
+288;4;proximity_sensor;Proximity_data;6
+288;4;proximity_sensor;;sampling rate4sensor value96
+288;2;motion_controller;wheel_start_stop;0
+288;2;motion_controller;;{0 6 0}
+288;6;wheel2;;0
+288;7;wheel;;0
+292;2;motion_controller;;{0 96 0}
+292;4;proximity_sensor;Proximity_data;96
+292;4;proximity_sensor;;sampling rate4sensor value50
+292;2;motion_controller;wheel_start_stop;0
+292;2;motion_controller;;{0 96 0}
+292;6;wheel2;;0
+292;7;wheel;;0
+296;2;motion_controller;;{0 50 0}
+296;4;proximity_sensor;Proximity_data;50
+296;4;proximity_sensor;;sampling rate4sensor value28
+296;2;motion_controller;wheel_start_stop;0
+296;2;motion_controller;;{0 50 0}
+296;6;wheel2;;0
+296;7;wheel;;0
+300;1;remote_control_In;Ext_Remote_control;1
+300;1;remote_control_In;;0
+300;2;motion_controller;;{1 28 1}
+300;4;proximity_sensor;Proximity_data;28
+300;4;proximity_sensor;;sampling rate4sensor value20
+300;2;motion_controller;wheel_start_stop;1
+300;2;motion_controller;;{1 28 1}
+300;6;wheel2;;1
+300;7;wheel;;1
+302;6;wheel2;;1
+302;7;wheel;;1
+304;2;motion_controller;;{1 20 1}
+304;4;proximity_sensor;Proximity_data;20
+304;4;proximity_sensor;;sampling rate4sensor value98
+304;2;motion_controller;wheel_start_stop;1
+304;2;motion_controller;;{1 20 1}
+304;6;wheel2;;1
+304;7;wheel;;1
+306;6;wheel2;;1
+306;7;wheel;;1
+308;2;motion_controller;;{1 98 1}
+308;4;proximity_sensor;Proximity_data;98
+308;4;proximity_sensor;;sampling rate4sensor value25
+308;2;motion_controller;wheel_start_stop;1
+308;2;motion_controller;;{1 98 1}
+308;6;wheel2;;1
+308;7;wheel;;1
+310;6;wheel2;;1
+310;7;wheel;;1
+312;2;motion_controller;;{1 25 1}
+312;4;proximity_sensor;Proximity_data;25
+312;4;proximity_sensor;;sampling rate4sensor value97
+312;2;motion_controller;wheel_start_stop;1
+312;2;motion_controller;;{1 25 1}
+312;6;wheel2;;1
+312;7;wheel;;1
+314;6;wheel2;;1
+314;7;wheel;;1
+316;2;motion_controller;;{1 97 1}
+316;4;proximity_sensor;Proximity_data;97
+316;4;proximity_sensor;;sampling rate4sensor value50
+316;2;motion_controller;wheel_start_stop;1
+316;2;motion_controller;;{1 97 1}
+316;6;wheel2;;1
+316;7;wheel;;1
+318;6;wheel2;;1
+318;7;wheel;;1
+320;2;motion_controller;;{1 50 1}
+320;4;proximity_sensor;Proximity_data;50
+320;4;proximity_sensor;;sampling rate4sensor value57
+320;2;motion_controller;wheel_start_stop;1
+320;2;motion_controller;;{1 50 1}
+320;6;wheel2;;1
+320;7;wheel;;1
+322;6;wheel2;;1
+322;7;wheel;;1
+324;2;motion_controller;;{1 57 1}
+324;4;proximity_sensor;Proximity_data;57
+324;4;proximity_sensor;;sampling rate4sensor value85
+324;2;motion_controller;wheel_start_stop;1
+324;2;motion_controller;;{1 57 1}
+324;6;wheel2;;1
+324;7;wheel;;1
+326;6;wheel2;;1
+326;7;wheel;;1
+328;2;motion_controller;;{1 85 1}
+328;4;proximity_sensor;Proximity_data;85
+328;4;proximity_sensor;;sampling rate4sensor value94
+328;2;motion_controller;wheel_start_stop;1
+328;2;motion_controller;;{1 85 1}
+328;6;wheel2;;1
+328;7;wheel;;1
+330;6;wheel2;;1
+330;7;wheel;;1
+332;2;motion_controller;;{1 94 1}
+332;4;proximity_sensor;Proximity_data;94
+332;4;proximity_sensor;;sampling rate4sensor value46
+332;2;motion_controller;wheel_start_stop;1
+332;2;motion_controller;;{1 94 1}
+332;6;wheel2;;1
+332;7;wheel;;1
+334;6;wheel2;;1
+334;7;wheel;;1
+336;2;motion_controller;;{1 46 1}
+336;4;proximity_sensor;Proximity_data;46
+336;4;proximity_sensor;;sampling rate4sensor value8
+336;2;motion_controller;wheel_start_stop;1
+336;2;motion_controller;;{1 46 1}
+336;6;wheel2;;1
+336;7;wheel;;1
+338;6;wheel2;;1
+338;7;wheel;;1
+340;2;motion_controller;;{1 8 0}
+340;4;proximity_sensor;Proximity_data;8
+340;4;proximity_sensor;;sampling rate4sensor value7
+340;2;motion_controller;wheel_start_stop;0
+340;2;motion_controller;;{1 8 0}
+340;6;wheel2;;0
+340;7;wheel;;0
+344;2;motion_controller;;{1 7 0}
+344;4;proximity_sensor;Proximity_data;7
+344;4;proximity_sensor;;sampling rate4sensor value10
+344;2;motion_controller;wheel_start_stop;0
+344;2;motion_controller;;{1 7 0}
+344;6;wheel2;;0
+344;7;wheel;;0
+348;2;motion_controller;;{1 10 0}
+348;4;proximity_sensor;Proximity_data;10
+348;4;proximity_sensor;;sampling rate4sensor value55
+348;2;motion_controller;wheel_start_stop;0
+348;2;motion_controller;;{1 10 0}
+348;6;wheel2;;0
+348;7;wheel;;0
+352;2;motion_controller;;{1 55 1}
+352;4;proximity_sensor;Proximity_data;55
+352;4;proximity_sensor;;sampling rate4sensor value53
+352;2;motion_controller;wheel_start_stop;1
+352;2;motion_controller;;{1 55 1}
+352;6;wheel2;;1
+352;7;wheel;;1
+354;6;wheel2;;1
+354;7;wheel;;1
+356;2;motion_controller;;{1 53 1}
+356;4;proximity_sensor;Proximity_data;53
+356;4;proximity_sensor;;sampling rate4sensor value66
+356;2;motion_controller;wheel_start_stop;1
+356;2;motion_controller;;{1 53 1}
+356;6;wheel2;;1
+356;7;wheel;;1
+358;6;wheel2;;1
+358;7;wheel;;1
+360;2;motion_controller;;{1 66 1}
+360;4;proximity_sensor;Proximity_data;66
+360;4;proximity_sensor;;sampling rate4sensor value84
+360;2;motion_controller;wheel_start_stop;1
+360;2;motion_controller;;{1 66 1}
+360;6;wheel2;;1
+360;7;wheel;;1
+362;6;wheel2;;1
+362;7;wheel;;1
+364;2;motion_controller;;{1 84 1}
+364;4;proximity_sensor;Proximity_data;84
+364;4;proximity_sensor;;sampling rate4sensor value39
+364;2;motion_controller;wheel_start_stop;1
+364;2;motion_controller;;{1 84 1}
+364;6;wheel2;;1
+364;7;wheel;;1
+366;6;wheel2;;1
+366;7;wheel;;1
+368;2;motion_controller;;{1 39 1}
+368;4;proximity_sensor;Proximity_data;39
+368;4;proximity_sensor;;sampling rate4sensor value2
+368;2;motion_controller;wheel_start_stop;1
+368;2;motion_controller;;{1 39 1}
+368;6;wheel2;;1
+368;7;wheel;;1
+370;6;wheel2;;1
+370;7;wheel;;1
+372;2;motion_controller;;{1 2 0}
+372;4;proximity_sensor;Proximity_data;2
+372;4;proximity_sensor;;sampling rate4sensor value91
+372;2;motion_controller;wheel_start_stop;0
+372;2;motion_controller;;{1 2 0}
+372;6;wheel2;;0
+372;7;wheel;;0
+376;2;motion_controller;;{1 91 1}
+376;4;proximity_sensor;Proximity_data;91
+376;4;proximity_sensor;;sampling rate4sensor value31
+376;2;motion_controller;wheel_start_stop;1
+376;2;motion_controller;;{1 91 1}
+376;6;wheel2;;1
+376;7;wheel;;1
+378;6;wheel2;;1
+378;7;wheel;;1
+380;2;motion_controller;;{1 31 1}
+380;4;proximity_sensor;Proximity_data;31
+380;4;proximity_sensor;;sampling rate4sensor value38
+380;2;motion_controller;wheel_start_stop;1
+380;2;motion_controller;;{1 31 1}
+380;6;wheel2;;1
+380;7;wheel;;1
+382;6;wheel2;;1
+382;7;wheel;;1
+384;2;motion_controller;;{1 38 1}
+384;4;proximity_sensor;Proximity_data;38
+384;4;proximity_sensor;;sampling rate4sensor value96
+384;2;motion_controller;wheel_start_stop;1
+384;2;motion_controller;;{1 38 1}
+384;6;wheel2;;1
+384;7;wheel;;1
+386;6;wheel2;;1
+386;7;wheel;;1
+388;2;motion_controller;;{1 96 1}
+388;4;proximity_sensor;Proximity_data;96
+388;4;proximity_sensor;;sampling rate4sensor value57
+388;2;motion_controller;wheel_start_stop;1
+388;2;motion_controller;;{1 96 1}
+388;6;wheel2;;1
+388;7;wheel;;1
+390;6;wheel2;;1
+390;7;wheel;;1
+392;2;motion_controller;;{1 57 1}
+392;4;proximity_sensor;Proximity_data;57
+392;4;proximity_sensor;;sampling rate4sensor value64
+392;2;motion_controller;wheel_start_stop;1
+392;2;motion_controller;;{1 57 1}
+392;6;wheel2;;1
+392;7;wheel;;1
+394;6;wheel2;;1
+394;7;wheel;;1
+396;2;motion_controller;;{1 64 1}
+396;4;proximity_sensor;Proximity_data;64
+396;4;proximity_sensor;;sampling rate4sensor value12
+396;2;motion_controller;wheel_start_stop;1
+396;2;motion_controller;;{1 64 1}
+396;6;wheel2;;1
+396;7;wheel;;1
+398;6;wheel2;;1
+398;7;wheel;;1
+400;1;remote_control_In;Ext_Remote_control;0
+400;1;remote_control_In;;1
+400;2;motion_controller;;{0 12 0}
+400;4;proximity_sensor;Proximity_data;12
+400;4;proximity_sensor;;sampling rate4sensor value28
+400;2;motion_controller;wheel_start_stop;0
+400;2;motion_controller;;{0 12 0}
+400;6;wheel2;;0
+400;7;wheel;;0
+404;2;motion_controller;;{0 28 0}
+404;4;proximity_sensor;Proximity_data;28
+404;4;proximity_sensor;;sampling rate4sensor value43
+404;2;motion_controller;wheel_start_stop;0
+404;2;motion_controller;;{0 28 0}
+404;6;wheel2;;0
+404;7;wheel;;0
+408;2;motion_controller;;{0 43 0}
+408;4;proximity_sensor;Proximity_data;43
+408;4;proximity_sensor;;sampling rate4sensor value7
+408;2;motion_controller;wheel_start_stop;0
+408;2;motion_controller;;{0 43 0}
+408;6;wheel2;;0
+408;7;wheel;;0
+412;2;motion_controller;;{0 7 0}
+412;4;proximity_sensor;Proximity_data;7
+412;4;proximity_sensor;;sampling rate4sensor value69
+412;2;motion_controller;wheel_start_stop;0
+412;2;motion_controller;;{0 7 0}
+412;6;wheel2;;0
+412;7;wheel;;0
+416;2;motion_controller;;{0 69 0}
+416;4;proximity_sensor;Proximity_data;69
+416;4;proximity_sensor;;sampling rate4sensor value13
+416;2;motion_controller;wheel_start_stop;0
+416;2;motion_controller;;{0 69 0}
+416;6;wheel2;;0
+416;7;wheel;;0
+420;2;motion_controller;;{0 13 0}
+420;4;proximity_sensor;Proximity_data;13
+420;4;proximity_sensor;;sampling rate4sensor value2
+420;2;motion_controller;wheel_start_stop;0
+420;2;motion_controller;;{0 13 0}
+420;6;wheel2;;0
+420;7;wheel;;0
+424;2;motion_controller;;{0 2 0}
+424;4;proximity_sensor;Proximity_data;2
+424;4;proximity_sensor;;sampling rate4sensor value11
+424;2;motion_controller;wheel_start_stop;0
+424;2;motion_controller;;{0 2 0}
+424;6;wheel2;;0
+424;7;wheel;;0
+428;2;motion_controller;;{0 11 0}
+428;4;proximity_sensor;Proximity_data;11
+428;4;proximity_sensor;;sampling rate4sensor value81
+428;2;motion_controller;wheel_start_stop;0
+428;2;motion_controller;;{0 11 0}
+428;6;wheel2;;0
+428;7;wheel;;0
+432;2;motion_controller;;{0 81 0}
+432;4;proximity_sensor;Proximity_data;81
+432;4;proximity_sensor;;sampling rate4sensor value59
+432;2;motion_controller;wheel_start_stop;0
+432;2;motion_controller;;{0 81 0}
+432;6;wheel2;;0
+432;7;wheel;;0
+436;2;motion_controller;;{0 59 0}
+436;4;proximity_sensor;Proximity_data;59
+436;4;proximity_sensor;;sampling rate4sensor value72
+436;2;motion_controller;wheel_start_stop;0
+436;2;motion_controller;;{0 59 0}
+436;6;wheel2;;0
+436;7;wheel;;0
+440;2;motion_controller;;{0 72 0}
+440;4;proximity_sensor;Proximity_data;72
+440;4;proximity_sensor;;sampling rate4sensor value32
+440;2;motion_controller;wheel_start_stop;0
+440;2;motion_controller;;{0 72 0}
+440;6;wheel2;;0
+440;7;wheel;;0
+444;2;motion_controller;;{0 32 0}
+444;4;proximity_sensor;Proximity_data;32
+444;4;proximity_sensor;;sampling rate4sensor value15
+444;2;motion_controller;wheel_start_stop;0
+444;2;motion_controller;;{0 32 0}
+444;6;wheel2;;0
+444;7;wheel;;0
+448;2;motion_controller;;{0 15 0}
+448;4;proximity_sensor;Proximity_data;15
+448;4;proximity_sensor;;sampling rate4sensor value48
+448;2;motion_controller;wheel_start_stop;0
+448;2;motion_controller;;{0 15 0}
+448;6;wheel2;;0
+448;7;wheel;;0
+452;2;motion_controller;;{0 48 0}
+452;4;proximity_sensor;Proximity_data;48
+452;4;proximity_sensor;;sampling rate4sensor value65
+452;2;motion_controller;wheel_start_stop;0
+452;2;motion_controller;;{0 48 0}
+452;6;wheel2;;0
+452;7;wheel;;0
+456;2;motion_controller;;{0 65 0}
+456;4;proximity_sensor;Proximity_data;65
+456;4;proximity_sensor;;sampling rate4sensor value98
+456;2;motion_controller;wheel_start_stop;0
+456;2;motion_controller;;{0 65 0}
+456;6;wheel2;;0
+456;7;wheel;;0
+460;2;motion_controller;;{0 98 0}
+460;4;proximity_sensor;Proximity_data;98
+460;4;proximity_sensor;;sampling rate4sensor value26
+460;2;motion_controller;wheel_start_stop;0
+460;2;motion_controller;;{0 98 0}
+460;6;wheel2;;0
+460;7;wheel;;0
+464;2;motion_controller;;{0 26 0}
+464;4;proximity_sensor;Proximity_data;26
+464;4;proximity_sensor;;sampling rate4sensor value39
+464;2;motion_controller;wheel_start_stop;0
+464;2;motion_controller;;{0 26 0}
+464;6;wheel2;;0
+464;7;wheel;;0
+468;2;motion_controller;;{0 39 0}
+468;4;proximity_sensor;Proximity_data;39
+468;4;proximity_sensor;;sampling rate4sensor value32
+468;2;motion_controller;wheel_start_stop;0
+468;2;motion_controller;;{0 39 0}
+468;6;wheel2;;0
+468;7;wheel;;0
+472;2;motion_controller;;{0 32 0}
+472;4;proximity_sensor;Proximity_data;32
+472;4;proximity_sensor;;sampling rate4sensor value19
+472;2;motion_controller;wheel_start_stop;0
+472;2;motion_controller;;{0 32 0}
+472;6;wheel2;;0
+472;7;wheel;;0
+476;2;motion_controller;;{0 19 0}
+476;4;proximity_sensor;Proximity_data;19
+476;4;proximity_sensor;;sampling rate4sensor value88
+476;2;motion_controller;wheel_start_stop;0
+476;2;motion_controller;;{0 19 0}
+476;6;wheel2;;0
+476;7;wheel;;0
+480;2;motion_controller;;{0 88 0}
+480;4;proximity_sensor;Proximity_data;88
+480;4;proximity_sensor;;sampling rate4sensor value52
+480;2;motion_controller;wheel_start_stop;0
+480;2;motion_controller;;{0 88 0}
+480;6;wheel2;;0
+480;7;wheel;;0
+484;2;motion_controller;;{0 52 0}
+484;4;proximity_sensor;Proximity_data;52
+484;4;proximity_sensor;;sampling rate4sensor value88
+484;2;motion_controller;wheel_start_stop;0
+484;2;motion_controller;;{0 52 0}
+484;6;wheel2;;0
+484;7;wheel;;0
+488;2;motion_controller;;{0 88 0}
+488;4;proximity_sensor;Proximity_data;88
+488;4;proximity_sensor;;sampling rate4sensor value14
+488;2;motion_controller;wheel_start_stop;0
+488;2;motion_controller;;{0 88 0}
+488;6;wheel2;;0
+488;7;wheel;;0
+492;2;motion_controller;;{0 14 0}
+492;4;proximity_sensor;Proximity_data;14
+492;4;proximity_sensor;;sampling rate4sensor value80
+492;2;motion_controller;wheel_start_stop;0
+492;2;motion_controller;;{0 14 0}
+492;6;wheel2;;0
+492;7;wheel;;0
+496;2;motion_controller;;{0 80 0}
+496;4;proximity_sensor;Proximity_data;80
+496;4;proximity_sensor;;sampling rate4sensor value96
+496;2;motion_controller;wheel_start_stop;0
+496;2;motion_controller;;{0 80 0}
+496;6;wheel2;;0
+496;7;wheel;;0
+500;1;remote_control_In;Ext_Remote_control;1
+500;1;remote_control_In;;0
+500;2;motion_controller;;{1 96 1}
+500;4;proximity_sensor;Proximity_data;96
+500;4;proximity_sensor;;sampling rate4sensor value51
+500;2;motion_controller;wheel_start_stop;1
+500;2;motion_controller;;{1 96 1}
+500;6;wheel2;;1
+500;7;wheel;;1
+502;6;wheel2;;1
+502;7;wheel;;1
+504;2;motion_controller;;{1 51 1}
+504;4;proximity_sensor;Proximity_data;51
+504;4;proximity_sensor;;sampling rate4sensor value51
+504;2;motion_controller;wheel_start_stop;1
+504;2;motion_controller;;{1 51 1}
+504;6;wheel2;;1
+504;7;wheel;;1
+506;6;wheel2;;1
+506;7;wheel;;1
+508;2;motion_controller;;{1 51 1}
+508;4;proximity_sensor;Proximity_data;51
+508;4;proximity_sensor;;sampling rate4sensor value14
+508;2;motion_controller;wheel_start_stop;1
+508;2;motion_controller;;{1 51 1}
+508;6;wheel2;;1
+508;7;wheel;;1
+510;6;wheel2;;1
+510;7;wheel;;1
+512;2;motion_controller;;{1 14 1}
+512;4;proximity_sensor;Proximity_data;14
+512;4;proximity_sensor;;sampling rate4sensor value63
+512;2;motion_controller;wheel_start_stop;1
+512;2;motion_controller;;{1 14 1}
+512;6;wheel2;;1
+512;7;wheel;;1
+514;6;wheel2;;1
+514;7;wheel;;1
+516;2;motion_controller;;{1 63 1}
+516;4;proximity_sensor;Proximity_data;63
+516;4;proximity_sensor;;sampling rate4sensor value35
+516;2;motion_controller;wheel_start_stop;1
+516;2;motion_controller;;{1 63 1}
+516;6;wheel2;;1
+516;7;wheel;;1
+518;6;wheel2;;1
+518;7;wheel;;1
+520;2;motion_controller;;{1 35 1}
+520;4;proximity_sensor;Proximity_data;35
+520;4;proximity_sensor;;sampling rate4sensor value74
+520;2;motion_controller;wheel_start_stop;1
+520;2;motion_controller;;{1 35 1}
+520;6;wheel2;;1
+520;7;wheel;;1
+522;6;wheel2;;1
+522;7;wheel;;1
+524;2;motion_controller;;{1 74 1}
+524;4;proximity_sensor;Proximity_data;74
+524;4;proximity_sensor;;sampling rate4sensor value48
+524;2;motion_controller;wheel_start_stop;1
+524;2;motion_controller;;{1 74 1}
+524;6;wheel2;;1
+524;7;wheel;;1
+526;6;wheel2;;1
+526;7;wheel;;1
+528;2;motion_controller;;{1 48 1}
+528;4;proximity_sensor;Proximity_data;48
+528;4;proximity_sensor;;sampling rate4sensor value22
+528;2;motion_controller;wheel_start_stop;1
+528;2;motion_controller;;{1 48 1}
+528;6;wheel2;;1
+528;7;wheel;;1
+530;6;wheel2;;1
+530;7;wheel;;1
+532;2;motion_controller;;{1 22 1}
+532;4;proximity_sensor;Proximity_data;22
+532;4;proximity_sensor;;sampling rate4sensor value31
+532;2;motion_controller;wheel_start_stop;1
+532;2;motion_controller;;{1 22 1}
+532;6;wheel2;;1
+532;7;wheel;;1
+534;6;wheel2;;1
+534;7;wheel;;1
+536;2;motion_controller;;{1 31 1}
+536;4;proximity_sensor;Proximity_data;31
+536;4;proximity_sensor;;sampling rate4sensor value41
+536;2;motion_controller;wheel_start_stop;1
+536;2;motion_controller;;{1 31 1}
+536;6;wheel2;;1
+536;7;wheel;;1
+538;6;wheel2;;1
+538;7;wheel;;1
+540;2;motion_controller;;{1 41 1}
+540;4;proximity_sensor;Proximity_data;41
+540;4;proximity_sensor;;sampling rate4sensor value58
+540;2;motion_controller;wheel_start_stop;1
+540;2;motion_controller;;{1 41 1}
+540;6;wheel2;;1
+540;7;wheel;;1
+542;6;wheel2;;1
+542;7;wheel;;1
+544;2;motion_controller;;{1 58 1}
+544;4;proximity_sensor;Proximity_data;58
+544;4;proximity_sensor;;sampling rate4sensor value79
+544;2;motion_controller;wheel_start_stop;1
+544;2;motion_controller;;{1 58 1}
+544;6;wheel2;;1
+544;7;wheel;;1
+546;6;wheel2;;1
+546;7;wheel;;1
+548;2;motion_controller;;{1 79 1}
+548;4;proximity_sensor;Proximity_data;79
+548;4;proximity_sensor;;sampling rate4sensor value27
+548;2;motion_controller;wheel_start_stop;1
+548;2;motion_controller;;{1 79 1}
+548;6;wheel2;;1
+548;7;wheel;;1
+550;6;wheel2;;1
+550;7;wheel;;1
+552;2;motion_controller;;{1 27 1}
+552;4;proximity_sensor;Proximity_data;27
+552;4;proximity_sensor;;sampling rate4sensor value4
+552;2;motion_controller;wheel_start_stop;1
+552;2;motion_controller;;{1 27 1}
+552;6;wheel2;;1
+552;7;wheel;;1
+554;6;wheel2;;1
+554;7;wheel;;1
+556;2;motion_controller;;{1 4 0}
+556;4;proximity_sensor;Proximity_data;4
+556;4;proximity_sensor;;sampling rate4sensor value98
+556;2;motion_controller;wheel_start_stop;0
+556;2;motion_controller;;{1 4 0}
+556;6;wheel2;;0
+556;7;wheel;;0
+560;2;motion_controller;;{1 98 1}
+560;4;proximity_sensor;Proximity_data;98
+560;4;proximity_sensor;;sampling rate4sensor value9
+560;2;motion_controller;wheel_start_stop;1
+560;2;motion_controller;;{1 98 1}
+560;6;wheel2;;1
+560;7;wheel;;1
+562;6;wheel2;;1
+562;7;wheel;;1
+564;2;motion_controller;;{1 9 0}
+564;4;proximity_sensor;Proximity_data;9
+564;4;proximity_sensor;;sampling rate4sensor value94
+564;2;motion_controller;wheel_start_stop;0
+564;2;motion_controller;;{1 9 0}
+564;6;wheel2;;0
+564;7;wheel;;0
+568;2;motion_controller;;{1 94 1}
+568;4;proximity_sensor;Proximity_data;94
+568;4;proximity_sensor;;sampling rate4sensor value89
+568;2;motion_controller;wheel_start_stop;1
+568;2;motion_controller;;{1 94 1}
+568;6;wheel2;;1
+568;7;wheel;;1
+570;6;wheel2;;1
+570;7;wheel;;1
+572;2;motion_controller;;{1 89 1}
+572;4;proximity_sensor;Proximity_data;89
+572;4;proximity_sensor;;sampling rate4sensor value39
+572;2;motion_controller;wheel_start_stop;1
+572;2;motion_controller;;{1 89 1}
+572;6;wheel2;;1
+572;7;wheel;;1
+574;6;wheel2;;1
+574;7;wheel;;1
+576;2;motion_controller;;{1 39 1}
+576;4;proximity_sensor;Proximity_data;39
+576;4;proximity_sensor;;sampling rate4sensor value86
+576;2;motion_controller;wheel_start_stop;1
+576;2;motion_controller;;{1 39 1}
+576;6;wheel2;;1
+576;7;wheel;;1
+578;6;wheel2;;1
+578;7;wheel;;1
+580;2;motion_controller;;{1 86 1}
+580;4;proximity_sensor;Proximity_data;86
+580;4;proximity_sensor;;sampling rate4sensor value94
+580;2;motion_controller;wheel_start_stop;1
+580;2;motion_controller;;{1 86 1}
+580;6;wheel2;;1
+580;7;wheel;;1
+582;6;wheel2;;1
+582;7;wheel;;1
+584;2;motion_controller;;{1 94 1}
+584;4;proximity_sensor;Proximity_data;94
+584;4;proximity_sensor;;sampling rate4sensor value89
+584;2;motion_controller;wheel_start_stop;1
+584;2;motion_controller;;{1 94 1}
+584;6;wheel2;;1
+584;7;wheel;;1
+586;6;wheel2;;1
+586;7;wheel;;1
+588;2;motion_controller;;{1 89 1}
+588;4;proximity_sensor;Proximity_data;89
+588;4;proximity_sensor;;sampling rate4sensor value21
+588;2;motion_controller;wheel_start_stop;1
+588;2;motion_controller;;{1 89 1}
+588;6;wheel2;;1
+588;7;wheel;;1
+590;6;wheel2;;1
+590;7;wheel;;1
+592;2;motion_controller;;{1 21 1}
+592;4;proximity_sensor;Proximity_data;21
+592;4;proximity_sensor;;sampling rate4sensor value12
+592;2;motion_controller;wheel_start_stop;1
+592;2;motion_controller;;{1 21 1}
+592;6;wheel2;;1
+592;7;wheel;;1
+594;6;wheel2;;1
+594;7;wheel;;1
+596;2;motion_controller;;{1 12 1}
+596;4;proximity_sensor;Proximity_data;12
+596;4;proximity_sensor;;sampling rate4sensor value47
+596;2;motion_controller;wheel_start_stop;1
+596;2;motion_controller;;{1 12 1}
+596;6;wheel2;;1
+596;7;wheel;;1
+598;6;wheel2;;1
+598;7;wheel;;1
+600;1;remote_control_In;Ext_Remote_control;0
+600;1;remote_control_In;;1
+600;2;motion_controller;;{0 47 0}
+600;4;proximity_sensor;Proximity_data;47
+600;4;proximity_sensor;;sampling rate4sensor value88
+600;2;motion_controller;wheel_start_stop;0
+600;2;motion_controller;;{0 47 0}
+600;6;wheel2;;0
+600;7;wheel;;0
+604;2;motion_controller;;{0 88 0}
+604;4;proximity_sensor;Proximity_data;88
+604;4;proximity_sensor;;sampling rate4sensor value11
+604;2;motion_controller;wheel_start_stop;0
+604;2;motion_controller;;{0 88 0}
+604;6;wheel2;;0
+604;7;wheel;;0
+608;2;motion_controller;;{0 11 0}
+608;4;proximity_sensor;Proximity_data;11
+608;4;proximity_sensor;;sampling rate4sensor value10
+608;2;motion_controller;wheel_start_stop;0
+608;2;motion_controller;;{0 11 0}
+608;6;wheel2;;0
+608;7;wheel;;0
+612;2;motion_controller;;{0 10 0}
+612;4;proximity_sensor;Proximity_data;10
+612;4;proximity_sensor;;sampling rate4sensor value88
+612;2;motion_controller;wheel_start_stop;0
+612;2;motion_controller;;{0 10 0}
+612;6;wheel2;;0
+612;7;wheel;;0
+616;2;motion_controller;;{0 88 0}
+616;4;proximity_sensor;Proximity_data;88
+616;4;proximity_sensor;;sampling rate4sensor value69
+616;2;motion_controller;wheel_start_stop;0
+616;2;motion_controller;;{0 88 0}
+616;6;wheel2;;0
+616;7;wheel;;0
+620;2;motion_controller;;{0 69 0}
+620;4;proximity_sensor;Proximity_data;69
+620;4;proximity_sensor;;sampling rate4sensor value4
+620;2;motion_controller;wheel_start_stop;0
+620;2;motion_controller;;{0 69 0}
+620;6;wheel2;;0
+620;7;wheel;;0
+624;2;motion_controller;;{0 4 0}
+624;4;proximity_sensor;Proximity_data;4
+624;4;proximity_sensor;;sampling rate4sensor value74
+624;2;motion_controller;wheel_start_stop;0
+624;2;motion_controller;;{0 4 0}
+624;6;wheel2;;0
+624;7;wheel;;0
+628;2;motion_controller;;{0 74 0}
+628;4;proximity_sensor;Proximity_data;74
+628;4;proximity_sensor;;sampling rate4sensor value1
+628;2;motion_controller;wheel_start_stop;0
+628;2;motion_controller;;{0 74 0}
+628;6;wheel2;;0
+628;7;wheel;;0
+632;2;motion_controller;;{0 1 0}
+632;4;proximity_sensor;Proximity_data;1
+632;4;proximity_sensor;;sampling rate4sensor value75
+632;2;motion_controller;wheel_start_stop;0
+632;2;motion_controller;;{0 1 0}
+632;6;wheel2;;0
+632;7;wheel;;0
+636;2;motion_controller;;{0 75 0}
+636;4;proximity_sensor;Proximity_data;75
+636;4;proximity_sensor;;sampling rate4sensor value6
+636;2;motion_controller;wheel_start_stop;0
+636;2;motion_controller;;{0 75 0}
+636;6;wheel2;;0
+636;7;wheel;;0
+640;2;motion_controller;;{0 6 0}
+640;4;proximity_sensor;Proximity_data;6
+640;4;proximity_sensor;;sampling rate4sensor value84
+640;2;motion_controller;wheel_start_stop;0
+640;2;motion_controller;;{0 6 0}
+640;6;wheel2;;0
+640;7;wheel;;0
+644;2;motion_controller;;{0 84 0}
+644;4;proximity_sensor;Proximity_data;84
+644;4;proximity_sensor;;sampling rate4sensor value53
+644;2;motion_controller;wheel_start_stop;0
+644;2;motion_controller;;{0 84 0}
+644;6;wheel2;;0
+644;7;wheel;;0
+648;2;motion_controller;;{0 53 0}
+648;4;proximity_sensor;Proximity_data;53
+648;4;proximity_sensor;;sampling rate4sensor value71
+648;2;motion_controller;wheel_start_stop;0
+648;2;motion_controller;;{0 53 0}
+648;6;wheel2;;0
+648;7;wheel;;0
+652;2;motion_controller;;{0 71 0}
+652;4;proximity_sensor;Proximity_data;71
+652;4;proximity_sensor;;sampling rate4sensor value88
+652;2;motion_controller;wheel_start_stop;0
+652;2;motion_controller;;{0 71 0}
+652;6;wheel2;;0
+652;7;wheel;;0
+656;2;motion_controller;;{0 88 0}
+656;4;proximity_sensor;Proximity_data;88
+656;4;proximity_sensor;;sampling rate4sensor value3
+656;2;motion_controller;wheel_start_stop;0
+656;2;motion_controller;;{0 88 0}
+656;6;wheel2;;0
+656;7;wheel;;0
+660;2;motion_controller;;{0 3 0}
+660;4;proximity_sensor;Proximity_data;3
+660;4;proximity_sensor;;sampling rate4sensor value11
+660;2;motion_controller;wheel_start_stop;0
+660;2;motion_controller;;{0 3 0}
+660;6;wheel2;;0
+660;7;wheel;;0
+664;2;motion_controller;;{0 11 0}
+664;4;proximity_sensor;Proximity_data;11
+664;4;proximity_sensor;;sampling rate4sensor value6
+664;2;motion_controller;wheel_start_stop;0
+664;2;motion_controller;;{0 11 0}
+664;6;wheel2;;0
+664;7;wheel;;0
+668;2;motion_controller;;{0 6 0}
+668;4;proximity_sensor;Proximity_data;6
+668;4;proximity_sensor;;sampling rate4sensor value11
+668;2;motion_controller;wheel_start_stop;0
+668;2;motion_controller;;{0 6 0}
+668;6;wheel2;;0
+668;7;wheel;;0
+672;2;motion_controller;;{0 11 0}
+672;4;proximity_sensor;Proximity_data;11
+672;4;proximity_sensor;;sampling rate4sensor value1
+672;2;motion_controller;wheel_start_stop;0
+672;2;motion_controller;;{0 11 0}
+672;6;wheel2;;0
+672;7;wheel;;0
+676;2;motion_controller;;{0 1 0}
+676;4;proximity_sensor;Proximity_data;1
+676;4;proximity_sensor;;sampling rate4sensor value97
+676;2;motion_controller;wheel_start_stop;0
+676;2;motion_controller;;{0 1 0}
+676;6;wheel2;;0
+676;7;wheel;;0
+680;2;motion_controller;;{0 97 0}
+680;4;proximity_sensor;Proximity_data;97
+680;4;proximity_sensor;;sampling rate4sensor value43
+680;2;motion_controller;wheel_start_stop;0
+680;2;motion_controller;;{0 97 0}
+680;6;wheel2;;0
+680;7;wheel;;0
+684;2;motion_controller;;{0 43 0}
+684;4;proximity_sensor;Proximity_data;43
+684;4;proximity_sensor;;sampling rate4sensor value86
+684;2;motion_controller;wheel_start_stop;0
+684;2;motion_controller;;{0 43 0}
+684;6;wheel2;;0
+684;7;wheel;;0
+688;2;motion_controller;;{0 86 0}
+688;4;proximity_sensor;Proximity_data;86
+688;4;proximity_sensor;;sampling rate4sensor value61
+688;2;motion_controller;wheel_start_stop;0
+688;2;motion_controller;;{0 86 0}
+688;6;wheel2;;0
+688;7;wheel;;0
+692;2;motion_controller;;{0 61 0}
+692;4;proximity_sensor;Proximity_data;61
+692;4;proximity_sensor;;sampling rate4sensor value48
+692;2;motion_controller;wheel_start_stop;0
+692;2;motion_controller;;{0 61 0}
+692;6;wheel2;;0
+692;7;wheel;;0
+696;2;motion_controller;;{0 48 0}
+696;4;proximity_sensor;Proximity_data;48
+696;4;proximity_sensor;;sampling rate4sensor value25
+696;2;motion_controller;wheel_start_stop;0
+696;2;motion_controller;;{0 48 0}
+696;6;wheel2;;0
+696;7;wheel;;0
+700;1;remote_control_In;Ext_Remote_control;1
+700;1;remote_control_In;;0
+700;2;motion_controller;;{1 25 1}
+700;4;proximity_sensor;Proximity_data;25
+700;4;proximity_sensor;;sampling rate4sensor value32
+700;2;motion_controller;wheel_start_stop;1
+700;2;motion_controller;;{1 25 1}
+700;6;wheel2;;1
+700;7;wheel;;1
+702;6;wheel2;;1
+702;7;wheel;;1
+704;2;motion_controller;;{1 32 1}
+704;4;proximity_sensor;Proximity_data;32
+704;4;proximity_sensor;;sampling rate4sensor value59
+704;2;motion_controller;wheel_start_stop;1
+704;2;motion_controller;;{1 32 1}
+704;6;wheel2;;1
+704;7;wheel;;1
+706;6;wheel2;;1
+706;7;wheel;;1
+708;2;motion_controller;;{1 59 1}
+708;4;proximity_sensor;Proximity_data;59
+708;4;proximity_sensor;;sampling rate4sensor value87
+708;2;motion_controller;wheel_start_stop;1
+708;2;motion_controller;;{1 59 1}
+708;6;wheel2;;1
+708;7;wheel;;1
+710;6;wheel2;;1
+710;7;wheel;;1
+712;2;motion_controller;;{1 87 1}
+712;4;proximity_sensor;Proximity_data;87
+712;4;proximity_sensor;;sampling rate4sensor value20
+712;2;motion_controller;wheel_start_stop;1
+712;2;motion_controller;;{1 87 1}
+712;6;wheel2;;1
+712;7;wheel;;1
+714;6;wheel2;;1
+714;7;wheel;;1
+716;2;motion_controller;;{1 20 1}
+716;4;proximity_sensor;Proximity_data;20
+716;4;proximity_sensor;;sampling rate4sensor value1
+716;2;motion_controller;wheel_start_stop;1
+716;2;motion_controller;;{1 20 1}
+716;6;wheel2;;1
+716;7;wheel;;1
+718;6;wheel2;;1
+718;7;wheel;;1
+720;2;motion_controller;;{1 1 0}
+720;4;proximity_sensor;Proximity_data;1
+720;4;proximity_sensor;;sampling rate4sensor value16
+720;2;motion_controller;wheel_start_stop;0
+720;2;motion_controller;;{1 1 0}
+720;6;wheel2;;0
+720;7;wheel;;0
+724;2;motion_controller;;{1 16 1}
+724;4;proximity_sensor;Proximity_data;16
+724;4;proximity_sensor;;sampling rate4sensor value56
+724;2;motion_controller;wheel_start_stop;1
+724;2;motion_controller;;{1 16 1}
+724;6;wheel2;;1
+724;7;wheel;;1
+726;6;wheel2;;1
+726;7;wheel;;1
+728;2;motion_controller;;{1 56 1}
+728;4;proximity_sensor;Proximity_data;56
+728;4;proximity_sensor;;sampling rate4sensor value83
+728;2;motion_controller;wheel_start_stop;1
+728;2;motion_controller;;{1 56 1}
+728;6;wheel2;;1
+728;7;wheel;;1
+730;6;wheel2;;1
+730;7;wheel;;1
+732;2;motion_controller;;{1 83 1}
+732;4;proximity_sensor;Proximity_data;83
+732;4;proximity_sensor;;sampling rate4sensor value75
+732;2;motion_controller;wheel_start_stop;1
+732;2;motion_controller;;{1 83 1}
+732;6;wheel2;;1
+732;7;wheel;;1
+734;6;wheel2;;1
+734;7;wheel;;1
+736;2;motion_controller;;{1 75 1}
+736;4;proximity_sensor;Proximity_data;75
+736;4;proximity_sensor;;sampling rate4sensor value62
+736;2;motion_controller;wheel_start_stop;1
+736;2;motion_controller;;{1 75 1}
+736;6;wheel2;;1
+736;7;wheel;;1
+738;6;wheel2;;1
+738;7;wheel;;1
+740;2;motion_controller;;{1 62 1}
+740;4;proximity_sensor;Proximity_data;62
+740;4;proximity_sensor;;sampling rate4sensor value7
+740;2;motion_controller;wheel_start_stop;1
+740;2;motion_controller;;{1 62 1}
+740;6;wheel2;;1
+740;7;wheel;;1
+742;6;wheel2;;1
+742;7;wheel;;1
+744;2;motion_controller;;{1 7 0}
+744;4;proximity_sensor;Proximity_data;7
+744;4;proximity_sensor;;sampling rate4sensor value3
+744;2;motion_controller;wheel_start_stop;0
+744;2;motion_controller;;{1 7 0}
+744;6;wheel2;;0
+744;7;wheel;;0
+748;2;motion_controller;;{1 3 0}
+748;4;proximity_sensor;Proximity_data;3
+748;4;proximity_sensor;;sampling rate4sensor value69
+748;2;motion_controller;wheel_start_stop;0
+748;2;motion_controller;;{1 3 0}
+748;6;wheel2;;0
+748;7;wheel;;0
+752;2;motion_controller;;{1 69 1}
+752;4;proximity_sensor;Proximity_data;69
+752;4;proximity_sensor;;sampling rate4sensor value66
+752;2;motion_controller;wheel_start_stop;1
+752;2;motion_controller;;{1 69 1}
+752;6;wheel2;;1
+752;7;wheel;;1
+754;6;wheel2;;1
+754;7;wheel;;1
+756;2;motion_controller;;{1 66 1}
+756;4;proximity_sensor;Proximity_data;66
+756;4;proximity_sensor;;sampling rate4sensor value71
+756;2;motion_controller;wheel_start_stop;1
+756;2;motion_controller;;{1 66 1}
+756;6;wheel2;;1
+756;7;wheel;;1
+758;6;wheel2;;1
+758;7;wheel;;1
+760;2;motion_controller;;{1 71 1}
+760;4;proximity_sensor;Proximity_data;71
+760;4;proximity_sensor;;sampling rate4sensor value19
+760;2;motion_controller;wheel_start_stop;1
+760;2;motion_controller;;{1 71 1}
+760;6;wheel2;;1
+760;7;wheel;;1
+762;6;wheel2;;1
+762;7;wheel;;1
+764;2;motion_controller;;{1 19 1}
+764;4;proximity_sensor;Proximity_data;19
+764;4;proximity_sensor;;sampling rate4sensor value24
+764;2;motion_controller;wheel_start_stop;1
+764;2;motion_controller;;{1 19 1}
+764;6;wheel2;;1
+764;7;wheel;;1
+766;6;wheel2;;1
+766;7;wheel;;1
+768;2;motion_controller;;{1 24 1}
+768;4;proximity_sensor;Proximity_data;24
+768;4;proximity_sensor;;sampling rate4sensor value90
+768;2;motion_controller;wheel_start_stop;1
+768;2;motion_controller;;{1 24 1}
+768;6;wheel2;;1
+768;7;wheel;;1
+770;6;wheel2;;1
+770;7;wheel;;1
+772;2;motion_controller;;{1 90 1}
+772;4;proximity_sensor;Proximity_data;90
+772;4;proximity_sensor;;sampling rate4sensor value7
+772;2;motion_controller;wheel_start_stop;1
+772;2;motion_controller;;{1 90 1}
+772;6;wheel2;;1
+772;7;wheel;;1
+774;6;wheel2;;1
+774;7;wheel;;1
+776;2;motion_controller;;{1 7 0}
+776;4;proximity_sensor;Proximity_data;7
+776;4;proximity_sensor;;sampling rate4sensor value20
+776;2;motion_controller;wheel_start_stop;0
+776;2;motion_controller;;{1 7 0}
+776;6;wheel2;;0
+776;7;wheel;;0
+780;2;motion_controller;;{1 20 1}
+780;4;proximity_sensor;Proximity_data;20
+780;4;proximity_sensor;;sampling rate4sensor value31
+780;2;motion_controller;wheel_start_stop;1
+780;2;motion_controller;;{1 20 1}
+780;6;wheel2;;1
+780;7;wheel;;1
+782;6;wheel2;;1
+782;7;wheel;;1
+784;2;motion_controller;;{1 31 1}
+784;4;proximity_sensor;Proximity_data;31
+784;4;proximity_sensor;;sampling rate4sensor value56
+784;2;motion_controller;wheel_start_stop;1
+784;2;motion_controller;;{1 31 1}
+784;6;wheel2;;1
+784;7;wheel;;1
+786;6;wheel2;;1
+786;7;wheel;;1
+788;2;motion_controller;;{1 56 1}
+788;4;proximity_sensor;Proximity_data;56
+788;4;proximity_sensor;;sampling rate4sensor value33
+788;2;motion_controller;wheel_start_stop;1
+788;2;motion_controller;;{1 56 1}
+788;6;wheel2;;1
+788;7;wheel;;1
+790;6;wheel2;;1
+790;7;wheel;;1
+792;2;motion_controller;;{1 33 1}
+792;4;proximity_sensor;Proximity_data;33
+792;4;proximity_sensor;;sampling rate4sensor value94
+792;2;motion_controller;wheel_start_stop;1
+792;2;motion_controller;;{1 33 1}
+792;6;wheel2;;1
+792;7;wheel;;1
+794;6;wheel2;;1
+794;7;wheel;;1
+796;2;motion_controller;;{1 94 1}
+796;4;proximity_sensor;Proximity_data;94
+796;4;proximity_sensor;;sampling rate4sensor value75
+796;2;motion_controller;wheel_start_stop;1
+796;2;motion_controller;;{1 94 1}
+796;6;wheel2;;1
+796;7;wheel;;1
+798;6;wheel2;;1
+798;7;wheel;;1
+800;1;remote_control_In;Ext_Remote_control;0
+800;1;remote_control_In;;1
+800;2;motion_controller;;{0 75 0}
+800;4;proximity_sensor;Proximity_data;75
+800;4;proximity_sensor;;sampling rate4sensor value96
+800;2;motion_controller;wheel_start_stop;0
+800;2;motion_controller;;{0 75 0}
+800;6;wheel2;;0
+800;7;wheel;;0
+804;2;motion_controller;;{0 96 0}
+804;4;proximity_sensor;Proximity_data;96
+804;4;proximity_sensor;;sampling rate4sensor value11
+804;2;motion_controller;wheel_start_stop;0
+804;2;motion_controller;;{0 96 0}
+804;6;wheel2;;0
+804;7;wheel;;0
+808;2;motion_controller;;{0 11 0}
+808;4;proximity_sensor;Proximity_data;11
+808;4;proximity_sensor;;sampling rate4sensor value74
+808;2;motion_controller;wheel_start_stop;0
+808;2;motion_controller;;{0 11 0}
+808;6;wheel2;;0
+808;7;wheel;;0
+812;2;motion_controller;;{0 74 0}
+812;4;proximity_sensor;Proximity_data;74
+812;4;proximity_sensor;;sampling rate4sensor value56
+812;2;motion_controller;wheel_start_stop;0
+812;2;motion_controller;;{0 74 0}
+812;6;wheel2;;0
+812;7;wheel;;0
+816;2;motion_controller;;{0 56 0}
+816;4;proximity_sensor;Proximity_data;56
+816;4;proximity_sensor;;sampling rate4sensor value31
+816;2;motion_controller;wheel_start_stop;0
+816;2;motion_controller;;{0 56 0}
+816;6;wheel2;;0
+816;7;wheel;;0
+820;2;motion_controller;;{0 31 0}
+820;4;proximity_sensor;Proximity_data;31
+820;4;proximity_sensor;;sampling rate4sensor value96
+820;2;motion_controller;wheel_start_stop;0
+820;2;motion_controller;;{0 31 0}
+820;6;wheel2;;0
+820;7;wheel;;0
+824;2;motion_controller;;{0 96 0}
+824;4;proximity_sensor;Proximity_data;96
+824;4;proximity_sensor;;sampling rate4sensor value46
+824;2;motion_controller;wheel_start_stop;0
+824;2;motion_controller;;{0 96 0}
+824;6;wheel2;;0
+824;7;wheel;;0
+828;2;motion_controller;;{0 46 0}
+828;4;proximity_sensor;Proximity_data;46
+828;4;proximity_sensor;;sampling rate4sensor value6
+828;2;motion_controller;wheel_start_stop;0
+828;2;motion_controller;;{0 46 0}
+828;6;wheel2;;0
+828;7;wheel;;0
+832;2;motion_controller;;{0 6 0}
+832;4;proximity_sensor;Proximity_data;6
+832;4;proximity_sensor;;sampling rate4sensor value95
+832;2;motion_controller;wheel_start_stop;0
+832;2;motion_controller;;{0 6 0}
+832;6;wheel2;;0
+832;7;wheel;;0
+836;2;motion_controller;;{0 95 0}
+836;4;proximity_sensor;Proximity_data;95
+836;4;proximity_sensor;;sampling rate4sensor value49
+836;2;motion_controller;wheel_start_stop;0
+836;2;motion_controller;;{0 95 0}
+836;6;wheel2;;0
+836;7;wheel;;0
+840;2;motion_controller;;{0 49 0}
+840;4;proximity_sensor;Proximity_data;49
+840;4;proximity_sensor;;sampling rate4sensor value74
+840;2;motion_controller;wheel_start_stop;0
+840;2;motion_controller;;{0 49 0}
+840;6;wheel2;;0
+840;7;wheel;;0
+844;2;motion_controller;;{0 74 0}
+844;4;proximity_sensor;Proximity_data;74
+844;4;proximity_sensor;;sampling rate4sensor value54
+844;2;motion_controller;wheel_start_stop;0
+844;2;motion_controller;;{0 74 0}
+844;6;wheel2;;0
+844;7;wheel;;0
+848;2;motion_controller;;{0 54 0}
+848;4;proximity_sensor;Proximity_data;54
+848;4;proximity_sensor;;sampling rate4sensor value75
+848;2;motion_controller;wheel_start_stop;0
+848;2;motion_controller;;{0 54 0}
+848;6;wheel2;;0
+848;7;wheel;;0
+852;2;motion_controller;;{0 75 0}
+852;4;proximity_sensor;Proximity_data;75
+852;4;proximity_sensor;;sampling rate4sensor value61
+852;2;motion_controller;wheel_start_stop;0
+852;2;motion_controller;;{0 75 0}
+852;6;wheel2;;0
+852;7;wheel;;0
+856;2;motion_controller;;{0 61 0}
+856;4;proximity_sensor;Proximity_data;61
+856;4;proximity_sensor;;sampling rate4sensor value42
+856;2;motion_controller;wheel_start_stop;0
+856;2;motion_controller;;{0 61 0}
+856;6;wheel2;;0
+856;7;wheel;;0
+860;2;motion_controller;;{0 42 0}
+860;4;proximity_sensor;Proximity_data;42
+860;4;proximity_sensor;;sampling rate4sensor value57
+860;2;motion_controller;wheel_start_stop;0
+860;2;motion_controller;;{0 42 0}
+860;6;wheel2;;0
+860;7;wheel;;0
+864;2;motion_controller;;{0 57 0}
+864;4;proximity_sensor;Proximity_data;57
+864;4;proximity_sensor;;sampling rate4sensor value45
+864;2;motion_controller;wheel_start_stop;0
+864;2;motion_controller;;{0 57 0}
+864;6;wheel2;;0
+864;7;wheel;;0
+868;2;motion_controller;;{0 45 0}
+868;4;proximity_sensor;Proximity_data;45
+868;4;proximity_sensor;;sampling rate4sensor value44
+868;2;motion_controller;wheel_start_stop;0
+868;2;motion_controller;;{0 45 0}
+868;6;wheel2;;0
+868;7;wheel;;0
+872;2;motion_controller;;{0 44 0}
+872;4;proximity_sensor;Proximity_data;44
+872;4;proximity_sensor;;sampling rate4sensor value41
+872;2;motion_controller;wheel_start_stop;0
+872;2;motion_controller;;{0 44 0}
+872;6;wheel2;;0
+872;7;wheel;;0
+876;2;motion_controller;;{0 41 0}
+876;4;proximity_sensor;Proximity_data;41
+876;4;proximity_sensor;;sampling rate4sensor value38
+876;2;motion_controller;wheel_start_stop;0
+876;2;motion_controller;;{0 41 0}
+876;6;wheel2;;0
+876;7;wheel;;0
+880;2;motion_controller;;{0 38 0}
+880;4;proximity_sensor;Proximity_data;38
+880;4;proximity_sensor;;sampling rate4sensor value80
+880;2;motion_controller;wheel_start_stop;0
+880;2;motion_controller;;{0 38 0}
+880;6;wheel2;;0
+880;7;wheel;;0
+884;2;motion_controller;;{0 80 0}
+884;4;proximity_sensor;Proximity_data;80
+884;4;proximity_sensor;;sampling rate4sensor value36
+884;2;motion_controller;wheel_start_stop;0
+884;2;motion_controller;;{0 80 0}
+884;6;wheel2;;0
+884;7;wheel;;0
+888;2;motion_controller;;{0 36 0}
+888;4;proximity_sensor;Proximity_data;36
+888;4;proximity_sensor;;sampling rate4sensor value50
+888;2;motion_controller;wheel_start_stop;0
+888;2;motion_controller;;{0 36 0}
+888;6;wheel2;;0
+888;7;wheel;;0
+892;2;motion_controller;;{0 50 0}
+892;4;proximity_sensor;Proximity_data;50
+892;4;proximity_sensor;;sampling rate4sensor value30
+892;2;motion_controller;wheel_start_stop;0
+892;2;motion_controller;;{0 50 0}
+892;6;wheel2;;0
+892;7;wheel;;0
+896;2;motion_controller;;{0 30 0}
+896;4;proximity_sensor;Proximity_data;30
+896;4;proximity_sensor;;sampling rate4sensor value11
+896;2;motion_controller;wheel_start_stop;0
+896;2;motion_controller;;{0 30 0}
+896;6;wheel2;;0
+896;7;wheel;;0
+900;1;remote_control_In;Ext_Remote_control;1
+900;1;remote_control_In;;0
+900;2;motion_controller;;{1 11 1}
+900;4;proximity_sensor;Proximity_data;11
+900;4;proximity_sensor;;sampling rate4sensor value8
+900;2;motion_controller;wheel_start_stop;1
+900;2;motion_controller;;{1 11 1}
+900;6;wheel2;;1
+900;7;wheel;;1
+902;6;wheel2;;1
+902;7;wheel;;1
+904;2;motion_controller;;{1 8 0}
+904;4;proximity_sensor;Proximity_data;8
+904;4;proximity_sensor;;sampling rate4sensor value18
+904;2;motion_controller;wheel_start_stop;0
+904;2;motion_controller;;{1 8 0}
+904;6;wheel2;;0
+904;7;wheel;;0
+908;2;motion_controller;;{1 18 1}
+908;4;proximity_sensor;Proximity_data;18
+908;4;proximity_sensor;;sampling rate4sensor value56
+908;2;motion_controller;wheel_start_stop;1
+908;2;motion_controller;;{1 18 1}
+908;6;wheel2;;1
+908;7;wheel;;1
+910;6;wheel2;;1
+910;7;wheel;;1
+912;2;motion_controller;;{1 56 1}
+912;4;proximity_sensor;Proximity_data;56
+912;4;proximity_sensor;;sampling rate4sensor value88
+912;2;motion_controller;wheel_start_stop;1
+912;2;motion_controller;;{1 56 1}
+912;6;wheel2;;1
+912;7;wheel;;1
+914;6;wheel2;;1
+914;7;wheel;;1
+916;2;motion_controller;;{1 88 1}
+916;4;proximity_sensor;Proximity_data;88
+916;4;proximity_sensor;;sampling rate4sensor value74
+916;2;motion_controller;wheel_start_stop;1
+916;2;motion_controller;;{1 88 1}
+916;6;wheel2;;1
+916;7;wheel;;1
+918;6;wheel2;;1
+918;7;wheel;;1
+920;2;motion_controller;;{1 74 1}
+920;4;proximity_sensor;Proximity_data;74
+920;4;proximity_sensor;;sampling rate4sensor value27
+920;2;motion_controller;wheel_start_stop;1
+920;2;motion_controller;;{1 74 1}
+920;6;wheel2;;1
+920;7;wheel;;1
+922;6;wheel2;;1
+922;7;wheel;;1
+924;2;motion_controller;;{1 27 1}
+924;4;proximity_sensor;Proximity_data;27
+924;4;proximity_sensor;;sampling rate4sensor value46
+924;2;motion_controller;wheel_start_stop;1
+924;2;motion_controller;;{1 27 1}
+924;6;wheel2;;1
+924;7;wheel;;1
+926;6;wheel2;;1
+926;7;wheel;;1
+928;2;motion_controller;;{1 46 1}
+928;4;proximity_sensor;Proximity_data;46
+928;4;proximity_sensor;;sampling rate4sensor value13
+928;2;motion_controller;wheel_start_stop;1
+928;2;motion_controller;;{1 46 1}
+928;6;wheel2;;1
+928;7;wheel;;1
+930;6;wheel2;;1
+930;7;wheel;;1
+932;2;motion_controller;;{1 13 1}
+932;4;proximity_sensor;Proximity_data;13
+932;4;proximity_sensor;;sampling rate4sensor value73
+932;2;motion_controller;wheel_start_stop;1
+932;2;motion_controller;;{1 13 1}
+932;6;wheel2;;1
+932;7;wheel;;1
+934;6;wheel2;;1
+934;7;wheel;;1
+936;2;motion_controller;;{1 73 1}
+936;4;proximity_sensor;Proximity_data;73
+936;4;proximity_sensor;;sampling rate4sensor value96
+936;2;motion_controller;wheel_start_stop;1
+936;2;motion_controller;;{1 73 1}
+936;6;wheel2;;1
+936;7;wheel;;1
+938;6;wheel2;;1
+938;7;wheel;;1
+940;2;motion_controller;;{1 96 1}
+940;4;proximity_sensor;Proximity_data;96
+940;4;proximity_sensor;;sampling rate4sensor value54
+940;2;motion_controller;wheel_start_stop;1
+940;2;motion_controller;;{1 96 1}
+940;6;wheel2;;1
+940;7;wheel;;1
+942;6;wheel2;;1
+942;7;wheel;;1
+944;2;motion_controller;;{1 54 1}
+944;4;proximity_sensor;Proximity_data;54
+944;4;proximity_sensor;;sampling rate4sensor value54
+944;2;motion_controller;wheel_start_stop;1
+944;2;motion_controller;;{1 54 1}
+944;6;wheel2;;1
+944;7;wheel;;1
+946;6;wheel2;;1
+946;7;wheel;;1
+948;2;motion_controller;;{1 54 1}
+948;4;proximity_sensor;Proximity_data;54
+948;4;proximity_sensor;;sampling rate4sensor value84
+948;2;motion_controller;wheel_start_stop;1
+948;2;motion_controller;;{1 54 1}
+948;6;wheel2;;1
+948;7;wheel;;1
+950;6;wheel2;;1
+950;7;wheel;;1
+952;2;motion_controller;;{1 84 1}
+952;4;proximity_sensor;Proximity_data;84
+952;4;proximity_sensor;;sampling rate4sensor value18
+952;2;motion_controller;wheel_start_stop;1
+952;2;motion_controller;;{1 84 1}
+952;6;wheel2;;1
+952;7;wheel;;1
+954;6;wheel2;;1
+954;7;wheel;;1
+956;2;motion_controller;;{1 18 1}
+956;4;proximity_sensor;Proximity_data;18
+956;4;proximity_sensor;;sampling rate4sensor value56
+956;2;motion_controller;wheel_start_stop;1
+956;2;motion_controller;;{1 18 1}
+956;6;wheel2;;1
+956;7;wheel;;1
+958;6;wheel2;;1
+958;7;wheel;;1
+960;2;motion_controller;;{1 56 1}
+960;4;proximity_sensor;Proximity_data;56
+960;4;proximity_sensor;;sampling rate4sensor value18
+960;2;motion_controller;wheel_start_stop;1
+960;2;motion_controller;;{1 56 1}
+960;6;wheel2;;1
+960;7;wheel;;1
+962;6;wheel2;;1
+962;7;wheel;;1
+964;2;motion_controller;;{1 18 1}
+964;4;proximity_sensor;Proximity_data;18
+964;4;proximity_sensor;;sampling rate4sensor value77
+964;2;motion_controller;wheel_start_stop;1
+964;2;motion_controller;;{1 18 1}
+964;6;wheel2;;1
+964;7;wheel;;1
+966;6;wheel2;;1
+966;7;wheel;;1
+968;2;motion_controller;;{1 77 1}
+968;4;proximity_sensor;Proximity_data;77
+968;4;proximity_sensor;;sampling rate4sensor value78
+968;2;motion_controller;wheel_start_stop;1
+968;2;motion_controller;;{1 77 1}
+968;6;wheel2;;1
+968;7;wheel;;1
+970;6;wheel2;;1
+970;7;wheel;;1
+972;2;motion_controller;;{1 78 1}
+972;4;proximity_sensor;Proximity_data;78
+972;4;proximity_sensor;;sampling rate4sensor value77
+972;2;motion_controller;wheel_start_stop;1
+972;2;motion_controller;;{1 78 1}
+972;6;wheel2;;1
+972;7;wheel;;1
+974;6;wheel2;;1
+974;7;wheel;;1
+976;2;motion_controller;;{1 77 1}
+976;4;proximity_sensor;Proximity_data;77
+976;4;proximity_sensor;;sampling rate4sensor value100
+976;2;motion_controller;wheel_start_stop;1
+976;2;motion_controller;;{1 77 1}
+976;6;wheel2;;1
+976;7;wheel;;1
+978;6;wheel2;;1
+978;7;wheel;;1
+980;2;motion_controller;;{1 100 1}
+980;4;proximity_sensor;Proximity_data;100
+980;4;proximity_sensor;;sampling rate4sensor value55
+980;2;motion_controller;wheel_start_stop;1
+980;2;motion_controller;;{1 100 1}
+980;6;wheel2;;1
+980;7;wheel;;1
+982;6;wheel2;;1
+982;7;wheel;;1
+984;2;motion_controller;;{1 55 1}
+984;4;proximity_sensor;Proximity_data;55
+984;4;proximity_sensor;;sampling rate4sensor value29
+984;2;motion_controller;wheel_start_stop;1
+984;2;motion_controller;;{1 55 1}
+984;6;wheel2;;1
+984;7;wheel;;1
+986;6;wheel2;;1
+986;7;wheel;;1
+988;2;motion_controller;;{1 29 1}
+988;4;proximity_sensor;Proximity_data;29
+988;4;proximity_sensor;;sampling rate4sensor value3
+988;2;motion_controller;wheel_start_stop;1
+988;2;motion_controller;;{1 29 1}
+988;6;wheel2;;1
+988;7;wheel;;1
+990;6;wheel2;;1
+990;7;wheel;;1
+992;2;motion_controller;;{1 3 0}
+992;4;proximity_sensor;Proximity_data;3
+992;4;proximity_sensor;;sampling rate4sensor value62
+992;2;motion_controller;wheel_start_stop;0
+992;2;motion_controller;;{1 3 0}
+992;6;wheel2;;0
+992;7;wheel;;0
+996;2;motion_controller;;{1 62 1}
+996;4;proximity_sensor;Proximity_data;62
+996;4;proximity_sensor;;sampling rate4sensor value56
+996;2;motion_controller;wheel_start_stop;1
+996;2;motion_controller;;{1 62 1}
+996;6;wheel2;;1
+996;7;wheel;;1
+998;6;wheel2;;1
+998;7;wheel;;1
+998;1;remote_control_In;;0
+998;2;motion_controller;;{1 62 1}
+998;4;proximity_sensor;;sampling rate4sensor value56
+998;6;wheel2;;1
+998;7;wheel;;1
