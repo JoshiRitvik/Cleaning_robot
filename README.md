@@ -10,7 +10,7 @@ $ cmake .
 $ make all
 
 the go to bin folder
-$ cd /bin
+$ cd bin/
 
 Execute the following commands to run respective files
 to test wheel atomic model
