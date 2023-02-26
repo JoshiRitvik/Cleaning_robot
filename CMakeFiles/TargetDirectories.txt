@@ -1,0 +1,8 @@
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/main_motion_Controller_test.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/main_sensor_test.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/main_vaccume_robot.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/main_wheel_test.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/run.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/run_test.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/edit_cache.dir
+/cygdrive/c/cadmium_v2/example/Cleaning_robot/CMakeFiles/rebuild_cache.dir

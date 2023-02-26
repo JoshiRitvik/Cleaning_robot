@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/main_wheel_test.dir/src/main_wheel_test.cpp.o -o bin/main_wheel_test.exe -Wl,--out-implib,libmain_wheel_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

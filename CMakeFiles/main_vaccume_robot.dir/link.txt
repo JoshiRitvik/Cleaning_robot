@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/main_vaccume_robot.dir/src/main_vaccume_robot.cpp.o -o bin/main_vaccume_robot.exe -Wl,--out-implib,libmain_vaccume_robot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

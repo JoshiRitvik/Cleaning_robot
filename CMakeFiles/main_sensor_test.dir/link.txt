@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/main_sensor_test.dir/src/main_sensor_test.cpp.o -o bin/main_sensor_test.exe -Wl,--out-implib,libmain_sensor_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
